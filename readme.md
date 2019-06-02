@@ -1,4 +1,4 @@
-# enviroment
+# environment
 laravel 5.8
 
 npm
