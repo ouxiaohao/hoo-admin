@@ -1,11 +1,10 @@
 <?php
 namespace App\Http\Controllers\Admin;
 
-use App\Http\Controllers\Controller;
+use App\Http\Controllers\Common\AdminBaseController;
 
-class IndexController extends Controller
+class IndexController extends AdminBaseController
 {
-
 
     /**
      * admin index
