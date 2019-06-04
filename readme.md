@@ -1,9 +1,11 @@
-# environment
+# Introduction
+
+# Env
 laravel 5.8
 
 npm
 
-# install
+# Install
 git clone https://github.com/ouxiaohao/hoo-admin.git
 
 composer install
