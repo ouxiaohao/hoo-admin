@@ -34,7 +34,7 @@
         "moment": "^2.24.0",
         "node-sass": "^4.11.0",
         "pace": "github:hubspot/pace#v1.0.2",
-        "prismjs": "^1.14.0",
+        "prismjs": "^1.24.0",
         "social-share.js": "github:overtrue/share.js",
         "switchery": "0.0.2"
     }
